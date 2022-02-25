@@ -15,4 +15,19 @@
 
 body {
     font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    
+}
+
+.dropdown-toggle::after {
+    content: none;
+}
+
+.bi-chevron-down {
+    padding-left: 7px;
+}
+
+.logo {
+    height: 40px;
+    padding-left: 12px; 
 }
