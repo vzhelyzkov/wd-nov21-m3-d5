@@ -31,3 +31,18 @@ body {
     height: 40px;
     padding-left: 12px; 
 }
+
+.bi-bell {
+    position: absolute;
+    top: 22%;
+    left: 33%;
+}
+
+.littlepurpledot {
+    left: 67%;
+}
+
+.littlegreendot {
+    left: 206%;
+    top: 64%;
+}
