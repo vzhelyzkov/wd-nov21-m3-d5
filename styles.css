@@ -60,3 +60,11 @@ body {
     display: inline-block;
    
   }
+
+  .text-muted 
+    { 
+        overflow:hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+  
