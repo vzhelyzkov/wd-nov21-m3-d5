@@ -67,4 +67,21 @@ body {
         text-overflow: ellipsis;
         white-space: nowrap;
       }
-  
+.card-title 
+      { 
+          overflow:hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+         
+        }
+.card {
+    min-height: 400px
+}
+
+.bi-clock {
+    margin-right: 5px;
+}
+
+.bi-bar-chart {
+    margin-right: 5px;
+}
