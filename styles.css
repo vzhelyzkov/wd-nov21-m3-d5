@@ -16,6 +16,7 @@
 body {
     font-family: 'Inter', sans-serif;
     font-weight: 500;
+    background-color: #F5F4F8;
     
 }
 
@@ -50,3 +51,12 @@ body {
 .textweb {
     color: #9F8BFB;
 }
+
+.dot {
+    height: 40px;
+    width: 40px;
+    background-color: #F9EEDB;
+    border-radius: 50%;
+    display: inline-block;
+   
+  }
